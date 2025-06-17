@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+[![Github](https://img.shields.io/github/followers/wowu?label=Follow&style=social)](https://github.com/wowu)
+
+Check out my open source projects:
+
+- 🐳 [docker-rollout](https://github.com/wowu/docker-rollout) - Zero-downtime deployment for Docker Compose
+- 🚀 [pro (Pull Request Opener)](https://github.com/wowu/pro) - Open current PR in browser with a single command
 
 <!--
 **wowu/wowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
