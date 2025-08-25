@@ -6,7 +6,7 @@ Check out my open source projects:
 
 - 🐳 [docker-rollout](https://github.com/wowu/docker-rollout) - Zero-downtime deployment for Docker Compose
 - 🚀 [pro (Pull Request Opener)](https://github.com/wowu/pro) - Open current PR in browser with a single command
-- 📝 [run](https://github.com/wowu/run) - 🆕 Zero dependencies task runner script.
+- 📝 [run](https://github.com/wowu/run) - 🆕 Zero-dependency task runner script.
 
 <!--
 **wowu/wowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
